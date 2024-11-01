@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Robots Log\n"
+"POT-Creation-Date: 2014-03-02 18:35+0800\n"
+"PO-Revision-Date: 2014-03-02 18:35+0800\n"
+"Last-Translator: Arefly <eflyjason@gmail.com>\n"
+"Language-Team: Arefly <eflyjason@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-robots-log.php:68
+msgid "Check Robots Log"
+msgstr "查看蜘蛛记录"
+
+#~ msgid "Last Post Redirect Options Page"
+#~ msgstr "Last Post Redirect 设置页面"
+
+#~ msgid "Last Post Redirect"
+#~ msgstr "Last Post Redirect"
+
+#~ msgid "General Options"
+#~ msgstr "一般设置"
+
+#~ msgid "You can go to your latest post by %s or using function %s"
+#~ msgstr "你可以通过 %s 或使用PHP Function %s 来前往你的最新文章"
+
+#~ msgid "You can go to your latest post by: "
+#~ msgstr "前往最新文章的地址："
+
+#~ msgid "Way you want to get for the latest post: "
+#~ msgstr "前往最新文章的方式："
+
+#~ msgid "Use Wordpress Function"
+#~ msgstr "使用Wordpress自带Function"
+
+#~ msgid "Use MYSQL Command"
+#~ msgstr "使用MYSQL命令"
+
+#~ msgid "(If you don't know what it means, leave it as default)"
+#~ msgstr "（如果你不清楚这是什麽，请保持默认）"
+
+#~ msgid "Status of post you want to get for the latest post: "
+#~ msgstr "前往最新文章的文章状态："
+
+#~ msgid "Publish Post"
+#~ msgstr "已发表文章"
+
+#~ msgid "Draft"
+#~ msgstr "草稿"
+
+#~ msgid "Future Post"
+#~ msgstr "未来发表文章"
+
+#~ msgid "Private Post"
+#~ msgstr "私密文章"
+
+#~ msgid "Type you want to get for the latest post: "
+#~ msgstr "前往最新文章的文章种类："
+
+#~ msgid "Post"
+#~ msgstr "文章"
+
+#~ msgid "Page"
+#~ msgstr "页面"
